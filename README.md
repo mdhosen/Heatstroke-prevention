@@ -6,7 +6,17 @@ The primary objective of the Heatstroke Prevention Challenge is to develop a pre
 In this repository, we present our machine-learning solution that forecasts thermal sensations by employing a carefully selected set of features. For an in-depth understanding of our methodology, please refer to our paper titled "Predicting Heatstroke Risk and Preventing Health Complications Using Machine Learning and Physiological Data."
 
 If you find our code helpful or incorporate it into your work, we kindly request you to cite our associated article:
-#Citation
-'''
-MI Hosen, ANA Abdullah, T Aydin, MAR Ahad, MB Islam, “Predicting Heatstroke Risk and Preventing Health Complications Using Machine Learning and Physiological Data,” in 5th International Conference on Activity and Behavior Computing (ABC 2023), September 7th - 9th, 2023, Kaiserslautern, Germany.
+## Citation
+```plaintext
+Title: Predicting Heatstroke Risk and Preventing Health Complications Using Machine Learning and Physiological Data
+
+Authors: MI Hosen, ANA Abdullah, T Aydin, MAR Ahad, MB Islam
+
+Conference: 5th International Conference on Activity and Behavior Computing (ABC 2023)
+
+Date: September 7th - 9th, 2023
+
+Location: Kaiserslautern, Germany
+
+
 
