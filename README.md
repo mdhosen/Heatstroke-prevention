@@ -3,7 +3,7 @@ This repository contains our solution code for Heatstroke Prevention challenge, 
 # Challenge Overview
 The primary objective of the Heatstroke Prevention Challenge is to develop a predictive model for personal thermal comfort sensations based on historical data. The dataset used for this challenge can be accessed on the challenge website: [Heatstroke Challenge Data](https://sites.google.com/view/heatstroke-challenge).
 
-In this repository, we present our machine-learning solution that forecasts thermal sensations by employing a carefully selected set of features. For an in-depth understanding of our methodology, please refer to our paper titled "Predicting Heatstroke Risk and Preventing Health Complications Using Machine Learning and Physiological Data."
+In this repository, we present our machine-learning solution that forecasts thermal sensations by employing a carefully selected set of features. For an in-depth understanding of our methodology, please refer to our paper titled "Predicting Heatstroke Risk and Preventing Health Complications Using Machine Learning and Physiological Data." Abstracts are available [Abstract](https://drive.google.com/file/d/1PAdzvO0fkesGGzcLOkA1NOvgab72YF6U/view).
 
 If you find our code helpful or incorporate it into your work, we kindly request you to cite our associated article:
 ## Citation
